@@ -13,3 +13,9 @@ function descending(x, y) {
 function print(element) {
   console.log(element);
 }
+
+//Sorting using Arrow function
+// let grades = [32,53,56, 64, 34,44];
+
+// grades.sort((x,y)=>y-x);
+// grades.forEach((element)=> console.log(element));
